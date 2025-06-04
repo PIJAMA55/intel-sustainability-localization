@@ -120,4 +120,12 @@ h1{
   }
 }
 
+[dir="rtl"] {
+  text-align: right;
+}
+
+/* Align text to the left for LTR languages */
+[dir="ltr"] {
+  text-align: left;
+}
 
